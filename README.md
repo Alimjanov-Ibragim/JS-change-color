@@ -1,3 +1,3 @@
-# Easy simple JS game colors
+# JS - change color
 
 ![Screenshot](screenshot.png)
